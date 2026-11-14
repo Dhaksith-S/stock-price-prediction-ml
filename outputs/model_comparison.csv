@@ -1,0 +1,9 @@
+Model,RMSE,MAE,MAPE (%),R2,Directional Acc (%)
+Naive (tomorrow = today),19.0021,13.5322,0.9854,0.9599,N/A
+Linear Regression (return target),19.1364,13.8899,1.011,0.9593,46.4935
+Random Forest (return target),19.1778,13.7384,0.9991,0.9591,48.8312
+XGBoost (return target),19.5558,14.0836,1.0238,0.9575,50.1299
+Linear Regression,19.7678,14.2329,1.0356,0.9566,49.8701
+XGBoost,22.7399,17.054,1.2366,0.9425,50.3896
+Random Forest,27.0017,20.6828,1.4984,0.9189,47.0130
+LSTM (60-day window),40.8112,31.5563,2.2551,0.8148,48.3117

@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+yfinance
+xgboost
+ta
+joblib
+nbformat
+jupyter
+
+# Optional: enables the LSTM model. Everything else runs without it.
+tensorflow

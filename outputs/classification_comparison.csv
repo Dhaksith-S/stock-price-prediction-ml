@@ -1,0 +1,5 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1 (%)
+Random Forest,51.69,51.4,48.17,49.73
+Logistic Regression,50.91,50.29,91.62,64.94
+XGBoost,50.13,49.62,34.55,40.74
+Majority class baseline,49.61,49.61,100.0,66.32
